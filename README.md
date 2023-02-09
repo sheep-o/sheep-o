@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... idk
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... idk
-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheep-o)](https://github.com/anuraghazra/github-readme-stats)
 
